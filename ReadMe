@@ -1,0 +1,8 @@
+Description
+Please implement a web service which calculates and displays results for the following
+algorithms:
+- Calculating a Fibonacci number F(n) with the value of n provided by the user.
+- The Ackermann function A(m,n) with values of m and n provided by the user.
+- The factorial of a non-negative integer n provided by the user.
+The results per function should be calculated separately and user’s input should be
+validated.
